@@ -8,31 +8,39 @@
 
 - 臨床工学技士として約10年間臨床を経験、課題解決のためにWebアプリ開発を独学
 - 医療機器管理の非効率を解消するため、クラウド型管理システム **M.E.I.S** を個人開発・実運用中
-- 2026年よりWebエンジニアとして本格始動
+- 2026年、医療SaaS企業にWebエンジニアとして転職。医療現場の知見を活かしたプロダクト開発に従事
 
 ---
 
 ## 🛠 Tech Stack
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt3-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify3-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
+
 ## 📜 Certifications
+
 ![ITパスポート](https://img.shields.io/badge/ITパスポート-合格-0078D4?style=flat-square)
 ![基本情報技術者](https://img.shields.io/badge/基本情報技術者-合格-0078D4?style=flat-square)
 
 ---
+
 ## 🏥 Clinical Background
 
 ![臨床工学技士](https://img.shields.io/badge/臨床工学技士-国家資格-E53935?style=flat-square)
 ![消化器内視鏡技師](https://img.shields.io/badge/消化器内視鏡技師-認定資格-E53935?style=flat-square)
 
-消化器内視鏡治療 × 腹腔鏡下手術スコープオペレータとして、検査→治療→手術を一貫して従事。 
-
+消化器内視鏡治療 × 腹腔鏡下手術スコープオペレータとして、検査→治療→手術を一貫して従事。
 医療現場での課題発見・業務改善の経験をエンジニアリングに活かす。
 
 - [2021 - ]某地方内視鏡技師会 役員
@@ -40,7 +48,8 @@
 - 2023年 第18回千葉県消化器内視鏡技師会 発表「ノーコードツールを活用した点検記録・保管のデジタルトランスフォーメーション」他
 
 ---
-## 🚀 Featured Project
+
+## 🚀 Featured Projects
 
 ### [M.E.I.S - Medical Equipment Inspection System](https://github.com/sho-ce-engineer/MEIS)
 
@@ -52,6 +61,25 @@
 
 [![Demo](https://img.shields.io/badge/Demo-試してみる-00DC82?style=flat-square)](https://meis-dev.onrender.com/)
 [![Repo](https://img.shields.io/badge/GitHub-リポジトリを見る-181717?style=flat-square&logo=github)](https://github.com/sho-ce-engineer/MEIS)
+
+### [meis-lite](https://github.com/sho-ce-engineer/meis-lite)
+
+M.E.I.Sの機器台帳機能を、モダンな技術スタックで再実装したポートフォリオ
+
+- Bun / Hono / Drizzle ORM / Zod / Next.js App Router / PostgreSQL(Neon)
+- CRUD API全実装・Vitestによるservice層テスト整備済み
+
+[![Repo](https://img.shields.io/badge/GitHub-リポジトリを見る-181717?style=flat-square&logo=github)](https://github.com/sho-ce-engineer/meis-lite)
+
+### [feedlens](https://github.com/sho-ce-engineer/feedlens)
+
+AI要約付きRSSダイジェストBot
+
+- RSSフィードをAI(Gemini API)でフィルタリング・要約し、Discordへ自動配信
+- GitHub Actions(cron)によるサーバーレス運用・bun:testでの境界値テスト整備済み
+
+[![Repo](https://img.shields.io/badge/GitHub-リポジトリを見る-181717?style=flat-square&logo=github)](https://github.com/sho-ce-engineer/feedlens)
+[![Zenn](https://img.shields.io/badge/Zenn-設計意図を読む-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/sho_ce_engineer/articles/25df0f08e4536a)
 
 ---
 
