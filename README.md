@@ -62,15 +62,6 @@
 [![Demo](https://img.shields.io/badge/Demo-試してみる-00DC82?style=flat-square)](https://meis-dev.onrender.com/)
 [![Repo](https://img.shields.io/badge/GitHub-リポジトリを見る-181717?style=flat-square&logo=github)](https://github.com/sho-ce-engineer/MEIS)
 
-### [meis-lite](https://github.com/sho-ce-engineer/meis-lite)
-
-M.E.I.Sの機器台帳機能を、モダンな技術スタックで再実装したポートフォリオ
-
-- Bun / Hono / Drizzle ORM / Zod / Next.js App Router / PostgreSQL(Neon)
-- CRUD API全実装・Vitestによるservice層テスト整備済み
-
-[![Repo](https://img.shields.io/badge/GitHub-リポジトリを見る-181717?style=flat-square&logo=github)](https://github.com/sho-ce-engineer/meis-lite)
-
 ### [feedlens](https://github.com/sho-ce-engineer/feedlens)
 
 AI要約付きRSSダイジェストBot
