@@ -1,14 +1,27 @@
 # Hi, I'm Sho 👋
 
-**臨床工学技士(CE:Clinical Engineer) → Webエンジニア｜臨床経験をもとに医療現場の課題をITで解決したい**
+**臨床工学技士10年 → 医療生成AIのエンジニア｜医療現場の言葉を、仕様に落とす**
+
+AI がコードを書く時代に価値が残るのは、「何を作るかを決める部分」だと考えています。
+臨床10年の経験を、要件定義・仕様・設計に活かし実装まで進めていきます。
 
 ---
 
 ## 🏥 About Me
 
-- 臨床工学技士として約10年間臨床を経験、課題解決のためにWebアプリ開発を独学
-- 医療機器管理の非効率を解消するため、クラウド型管理システム **M.E.I.S** を個人開発・実運用中
-- 2026年、医療SaaS企業にWebエンジニアとして転職。医療現場の知見を活かしたプロダクト開発に従事
+- 臨床工学技士として約10年（消化器内視鏡・腹腔鏡手術・医療機器管理）
+- 個人開発の医療機器の点検管理システム **M.E.I.S** を企画から本番運用まで独力で開発（病院で運用実績あり）
+- 2026年7月から医療SaaS企業で、医療機関向け業務改善AIの開発に従事。
+- 医療系学会の運営役員として、会員向け問い合わせ対応AIを開発・運用中
+- 専門学校の非常勤講師（内視鏡総論）として後継の育成にも従事
+
+---
+
+## 🤝 Work with me
+
+医療SaaS・ヘルスケア系の開発チーム向けに、**現場の言葉を要件・仕様に落とす支援**を行っています。
+
+- 要件定義・仕様の相談 / 医療ドメインのアドバイス / AI機能の設計など
 
 ---
 
@@ -25,6 +38,7 @@
 ![Vue](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify3-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
@@ -55,7 +69,7 @@
 
 クラウド型医療機器点検記録管理システム
 
-- 医療現場の紙運用をデジタル化し、**現在も実業務で稼働中**
+- 医療現場の紙運用をデジタル化し、病院で本番運用した実績あり
 - AIバイブコーディングで構築後、セキュリティ・品質面を体系的にリファクタリング
 - Nuxt3 / Vue3 / Vuetify3 / PostgreSQL / TypeScript
 
