@@ -17,16 +17,6 @@ AI がコードを書く時代に価値が残るのは、「何を作るか」�
 
 ---
 
-## 🤝 Work with me
-
-医療SaaS・ヘルスケア系の開発チーム向けに、**現場の言葉を要件・仕様に落とす支援**を行っています。
-
-- 要件定義・仕様の相談
-- 医療ドメインのアドバイス
-- AI機能の設計
-
----
-
 ## 🛠 Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
