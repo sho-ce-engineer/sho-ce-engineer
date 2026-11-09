@@ -88,11 +88,12 @@ AI要約付きRSSダイジェストBot
 
 ---
 
-## 📝 Blog
+## 📝 Blog / SNS
 
-技術的な学びや開発の振り返りをZennに投稿しています。
+技術的な学びや開発の振り返りをZennに投稿しています。Zenn・noteの更新はXでもお知らせします。
 
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/sho_ce_engineer)
+[![X](https://img.shields.io/badge/X-@sho__ce__engineer-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sho_ce_engineer)
 
 ---
 
